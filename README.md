@@ -14,5 +14,5 @@ There are also notebooks used as projects for the Nanodegree program.
 ### Introduction to Neural Networks
 
 * [Introduction to Neural Networks](https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/intro-neural-networks): Learn how to implement gradient descent and apply it to predicting patterns in student admissions data.
-* [Sentiment Analysis with NumPy] leads you through building a sentiment analysis model, predicting if some text is positive or negative.
+* [Sentiment Analysis with NumPy](https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/sentiment-analysis-network): leads you through building a sentiment analysis model, predicting if some text is positive or negative.
 * [Introduction to PyTorch]: Learn how to build neural networks in PyTorch and use pre-trained networks for state-of-the-art image classifiers.
