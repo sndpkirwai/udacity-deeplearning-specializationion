@@ -16,3 +16,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 10. Backprapogation
 11.With optimizer update weight
 12. Check the prediction with test dataset
+* **Part 4:** Training NN with Fashion MNIST dataset
+* **Part 4:** Training NN with Fashion MNIST dataset with validation set and dropout to overcome overfitting model
+
