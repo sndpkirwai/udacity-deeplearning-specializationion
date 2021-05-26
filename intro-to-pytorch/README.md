@@ -17,5 +17,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 11.With optimizer update weight
 12. Check the prediction with test dataset
 * **Part 4:** Training NN with Fashion MNIST dataset
-* **Part 4:** Training NN with Fashion MNIST dataset with validation set and dropout to overcome overfitting model
+* **Part 5:** Training NN with Fashion MNIST dataset with validation set and dropout to overcome overfitting model
+* **Part 5:** Training NN with Fashion MNIST dataset and save model to file and reload again
 
