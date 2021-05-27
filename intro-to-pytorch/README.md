@@ -18,5 +18,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 12. Check the prediction with test dataset
 * **Part 4:** Training NN with Fashion MNIST dataset
 * **Part 5:** Training NN with Fashion MNIST dataset with validation set and dropout to overcome overfitting model
-* **Part 5:** Training NN with Fashion MNIST dataset and save model to file and reload again
+* **Part 6:** Training NN with Fashion MNIST dataset and save model to file and reload again
+* **Part 7:** Working on Cat & dog data set to load and add randomness with data augumentation 
 
