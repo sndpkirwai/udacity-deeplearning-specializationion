@@ -17,3 +17,5 @@ There are also notebooks used as projects for the Nanodegree program.
 * [Sentiment Analysis with NumPy](https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/sentiment-analysis-network): leads you through building a sentiment analysis model, predicting if some text is positive or negative.
 * [Bike sharing Neural networks Project](https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/project-bikesharing): This is an assignment wherein a multiple linear regression model is built to predict demand for shared bikes depending on the current trend.
 * [Introduction to PyTorch](https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/intro-to-pytorch): Learn how to build neural networks in PyTorch and use pre-trained networks for state-of-the-art image classifiers.
+* [Convolutional Neural networks] (https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/CNN)
+* [AutoEncoder for NN & CNN] (https://github.com/sndpkirwai/udacity-deeplearning-specializationion/tree/main/autoencoder)
